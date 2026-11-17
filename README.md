@@ -1,4 +1,8 @@
-   # OPIKPZ-pr-practice
-   Практична робота №5: Pull request і рецензування в команді.
+# OPIKPZ-pr-practice
+Практична робота №5: Pull request і рецензування в команді.
+
 ## Сторінка контактів
-   Файл contacts.html містить контактну інформацію зі стилями з contacts.css.
+Файл contacts.html містить контактну інформацію зі стилями з contacts.css.
+
+## Сторінка пошуку
+Файл search.html містить форму пошуку зі стилями з search.css.
